@@ -1,0 +1,23 @@
+{
+  "name": "lerna-use-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeliski/lerna-use-test-case.git"
+  },
+  "keywords": [],
+  "author": "Rogerio Angeliski <angeliski@hotmail.com> (https://github.com/angeliski)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeliski/lerna-use-test-case/issues"
+  },
+  "homepage": "https://github.com/angeliski/lerna-use-test-case#readme",
+  "dependencies": {
+    "view": "1.0.0"
+  }
+}
